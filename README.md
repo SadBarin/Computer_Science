@@ -1,3 +1,3 @@
-# Funny_Python_and_Computer_Science
+# Funny Python and Computer Science
 
 Learn Computer Science and Python
