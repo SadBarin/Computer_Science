@@ -1,3 +1,7 @@
+
+# From book Computer Science Distilled: Learn the Art of Solving Computational Problems
+# Author: Wladson Ferreira Filho
+
 word = str(input('Enter a palindrome: ')).lower().replace(' ', '')
 
 def palindrome(word):

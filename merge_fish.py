@@ -22,4 +22,3 @@ def merge(sea, fresh):
 print(merge(['Perch', 'Sailfish'], ['Trevally', 'Tarakihi', 'Jobfish']))
 
 # Algorithm complexity: O(n)
-
